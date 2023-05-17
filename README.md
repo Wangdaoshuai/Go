@@ -28,8 +28,8 @@ https://www.bilibili.com/video/BV1gf4y1r79E/?p=6&spm_id_from=pageDriver&vd_sourc
 5.  import相关
 6.  import相关
 7.  指针
-8.  
-9.  
+8.  defer
+9.  切片slice
 10. 
 11. 
 12. 
