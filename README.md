@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Go语言
 
 #### 介绍
@@ -43,7 +42,3 @@ https://www.bilibili.com/video/BV1gf4y1r79E/?p=6&spm_id_from=pageDriver&vd_sourc
 
 
 
-=======
-# Go
-test
->>>>>>> remotes/origin/main
