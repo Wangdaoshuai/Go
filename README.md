@@ -32,6 +32,8 @@ https://www.bilibili.com/video/BV1gf4y1r79E/?p=6&spm_id_from=pageDriver&vd_sourc
 10. map
 11. 面向对象
 12. 反射
+13. goroutine
+14. channel
 
 #### 使用说明
 
